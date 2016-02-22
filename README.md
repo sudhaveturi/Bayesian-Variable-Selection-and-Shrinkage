@@ -1,3 +1,3 @@
 # Bayesian-Variable-Selection-and-Shrinkage
 
-A short presentation explaining Bayesian variable selection and shrinkage as compared to penalized methods.
+A short [presentation](https://github.com/sudhaveturi/Bayesian-Variable-Selection-and-Shrinkage/blob/master/BayesianVarSelectionShrinkage.pdf) explaining how Bayesian variable selection and shrinkage methods compare to penalized regression methods.
