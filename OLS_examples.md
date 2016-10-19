@@ -30,8 +30,11 @@ all(round(CInv.solve,8)==round(CInv.chol,8))
 
 bHat_3 = chol2inv(chol(crossprod(X)))%*%crossprod(X,y)
 
+```
 
 #### Galton dataset
+
+```R
 
 DATA = read.table("~/Dropbox/UAB/Research/BST465/GaltonHeightData.txt",header=T)
 head(DATA)
